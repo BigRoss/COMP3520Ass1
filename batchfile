@@ -1,0 +1,7 @@
+clr
+cd
+cd
+sleep 3 &
+pause
+help
+echo yes yes 213312
